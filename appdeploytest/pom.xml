@@ -5,8 +5,8 @@
   <artifactId>appdeploytest</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>appdeploytest Maven Webapp</name>
-  <url>http://maven.apache.org</url>
+  <name>appdeploytest Maven Webapp for NCS Test</name>
+  <url>http://mvntest.mrhi.or.kr</url>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>appdeploytest</finalName>
+    	<finalName>mrhi-app-deploy-test</finalName>
   </build>
 </project>
